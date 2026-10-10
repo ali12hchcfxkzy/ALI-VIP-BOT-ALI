@@ -1,3 +1,4 @@
+
 {
   "0P43-NGTA-43L4-RJ5B": {
     "active": true,
@@ -22,8 +23,7 @@
     "banned": false,
     "devices": 0,
     "last_seen": null
-  }
-}
+  },
   "TEST-EXPIRED-1234": {
     "active": true,
     "expiry": "2026-10-09",
