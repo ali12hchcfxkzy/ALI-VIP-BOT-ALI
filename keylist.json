@@ -54,5 +54,13 @@
     "banned": false,
     "devices": 0,
     "last_seen": null
+  },
+  "I1ZJ-LR2S-PGLW-H7VZ": {
+    "active": true,
+    "expiry": "2026-10-17",
+    "created_at": "2026-10-10",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
   }
 }
