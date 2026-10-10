@@ -22,5 +22,29 @@
     "banned": false,
     "devices": 0,
     "last_seen": null
+  },
+  "RD27-XU5N-7FK4-V349": {
+    "active": true,
+    "expiry": "2026-10-11",
+    "created_at": "2026-10-10",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
+  },
+  "N90P-AQBA-67AO-T2SV": {
+    "active": true,
+    "expiry": "2026-10-11",
+    "created_at": "2026-10-10",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
+  },
+  "1VHL-V38S-7FBB-ALJE": {
+    "active": true,
+    "expiry": "2026-10-11",
+    "created_at": "2026-10-10",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
   }
 }
