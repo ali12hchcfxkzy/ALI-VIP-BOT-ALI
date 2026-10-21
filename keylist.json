@@ -70,5 +70,13 @@
     "banned": false,
     "devices": 0,
     "last_seen": null
+  },
+  "UMP4-6SVB-Q40M-82XG": {
+    "active": true,
+    "expiry": "2026-10-22",
+    "created_at": "2026-10-21",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
   }
 }
