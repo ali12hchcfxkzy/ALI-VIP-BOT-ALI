@@ -94,5 +94,13 @@
     "banned": false,
     "devices": 0,
     "last_seen": null
+  },
+  "UKNX-DZA1-V8H8-B8DF": {
+    "active": true,
+    "expiry": "2026-10-28",
+    "created_at": "2026-10-27",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
   }
 }
