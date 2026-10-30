@@ -102,5 +102,13 @@
     "banned": false,
     "devices": 0,
     "last_seen": null
+  },
+  "IC25-H5YO-LBIE-3T2L": {
+    "active": true,
+    "expiry": "2026-11-06",
+    "created_at": "2026-10-30",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
   }
 }
