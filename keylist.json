@@ -134,5 +134,13 @@
     "banned": false,
     "devices": 0,
     "last_seen": null
+  },
+  "AQD6-X714-GRVV-VAC3": {
+    "active": true,
+    "expiry": "2026-11-07",
+    "created_at": "2026-11-06",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
   }
 }
