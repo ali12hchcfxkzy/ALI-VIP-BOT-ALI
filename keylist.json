@@ -150,5 +150,13 @@
     "banned": false,
     "devices": 0,
     "last_seen": null
+  },
+  "U67D-CT2W-S21I-WE5K": {
+    "active": true,
+    "expiry": "2026-11-14",
+    "created_at": "2026-11-07",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
   }
 }
