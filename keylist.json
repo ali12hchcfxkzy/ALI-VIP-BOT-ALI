@@ -142,5 +142,13 @@
     "banned": false,
     "devices": 0,
     "last_seen": null
+  },
+  "4V5L-F6CK-LJME-3MD1": {
+    "active": true,
+    "expiry": "2027-02-05",
+    "created_at": "2026-11-07",
+    "banned": false,
+    "devices": 0,
+    "last_seen": null
   }
 }
